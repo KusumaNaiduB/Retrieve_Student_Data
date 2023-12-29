@@ -1,0 +1,7 @@
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\bin\Debug\Retrieve_student_data.exe.config
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\bin\Debug\Retrieve_student_data.exe
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\bin\Debug\Retrieve_student_data.pdb
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\obj\Debug\Retrieve_student_data.csproj.AssemblyReference.cache
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\obj\Debug\Retrieve_student_data.csproj.CoreCompileInputs.cache
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\obj\Debug\Retrieve_student_data.exe
+C:\Users\kusum\Desktop\MPHASIS PHASES\Phase 2\Project(section8)\Retrieve_student_data\Retrieve_student_data\obj\Debug\Retrieve_student_data.pdb
